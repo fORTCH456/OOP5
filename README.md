@@ -13,12 +13,8 @@
   </ul>
 </p>
 
-<p>
-  <strong>Требования к запуску:</strong>
-  <ul>
-    <li>Запустить исполняемый файл "Task5SQLite.exe"</li>
-  </ul>
-</p>
+
+  
 
 <div class="screenshots">
   <img src="screenshots/1.jpg" alt="Экран входа в систему">
