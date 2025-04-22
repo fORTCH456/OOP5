@@ -8,7 +8,7 @@
   </ul>
   Реализовано с использованием:
   <ul>
-    <li>Entity Framework Core (ORM)</li>
+    <li>Entity Framework Core </li>
     <li>SQLite (встроенная база данных)</li>
   </ul>
 </p>
