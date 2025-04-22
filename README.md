@@ -9,7 +9,7 @@
   Реализовано с использованием:
   <ul>
     <li>Entity Framework Core </li>
-    <li>SQLite (встроенная база данных)</li>
+    <li>SQLite </li>
   </ul>
 </p>
 
